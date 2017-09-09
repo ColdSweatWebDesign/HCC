@@ -10237,69 +10237,6 @@ body {
 .cid-quiVOPDKts h6 {
   text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.7);
 }
-.cid-quiWI7OhvO {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #f9f9f9;
-}
-.cid-quiWI7OhvO h2 {
-  text-align: left;
-}
-.cid-quiWI7OhvO h4 {
-  text-align: left;
-  font-weight: 500;
-}
-.cid-quiWI7OhvO p {
-  color: #767676;
-  text-align: left;
-}
-.cid-quiWI7OhvO .block-content {
-  display: -webkit-flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
-}
-.cid-quiWI7OhvO .mbr-card-img-title {
-  display: -webkit-flex;
-  flex-direction: row;
-  align-items: center;
-  -webkit-flex-direction: row;
-  -webkit-align-items: center;
-}
-.cid-quiWI7OhvO .mbr-figure {
-  align-self: flex-start;
-  -webkit-align-self: flex-start;
-  -webkit-flex-shrink: 0;
-  flex-shrink: 0;
-}
-.cid-quiWI7OhvO .card-img {
-  padding-right: 2rem;
-}
-.cid-quiWI7OhvO .card-img span {
-  font-size: 72px;
-  color: #707070;
-}
-.cid-quiWI7OhvO .mbr-crt-title {
-  -webkit-flex-grow: 1;
-  flex-grow: 1;
-}
-@media (min-width: 992px) {
-  .cid-quiWI7OhvO .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-quiWI7OhvO .mbr-figure {
-    padding-right: 0;
-    padding-bottom: 1rem;
-    margin-bottom: 2rem;
-  }
-}
-.cid-quiWI7OhvO P {
-  color: #ffffff;
-}
-.cid-quiWI7OhvO H2 {
-  color: #ffffff;
-}
 .cid-quL0i2kJJm {
   background-image: url("../../../assets/images/kids-entertainers-1-725x324.jpg");
 }
