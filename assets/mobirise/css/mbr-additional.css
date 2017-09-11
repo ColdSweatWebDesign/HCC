@@ -6446,7 +6446,7 @@ body {
   text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.7);
 }
 .cid-quurTUKaQ7 {
-  background-image: url("../../../assets/images/cyber-security-ireland-1600x762.jpg");
+  background-image: url("../../../assets/images/security8-1732x550.jpg");
 }
 .cid-quurTUKaQ7 .text-content {
   padding-top: 105px;
@@ -6494,7 +6494,7 @@ body {
   }
 }
 .cid-quurVO8JhI {
-  background-image: url("../../../assets/images/security-2-607x234.jpg");
+  background-image: url("../../../assets/images/security7-960x375.jpg");
 }
 .cid-quurVO8JhI .text-content {
   padding-top: 105px;
@@ -6540,6 +6540,79 @@ body {
   .cid-quurVO8JhI .mbr-text {
     text-align: center;
   }
+}
+.cid-quWZdKJVKK {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  background-color: #000000;
+}
+@media (max-width: 767px) {
+  .cid-quWZdKJVKK .content {
+    text-align: center;
+  }
+  .cid-quWZdKJVKK .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-quWZdKJVKK .media-wrap {
+    margin-bottom: 1rem;
+  }
+}
+.cid-quWZdKJVKK .media-wrap .mbr-iconfont-logo {
+  font-size: 7.5rem;
+  color: #f36;
+}
+.cid-quWZdKJVKK .media-wrap img {
+  height: 6rem;
+}
+@media (max-width: 767px) {
+  .cid-quWZdKJVKK .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-quWZdKJVKK .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-quWZdKJVKK .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+.cid-quWZdKJVKK .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-quWZdKJVKK .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-quWZdKJVKK .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-quWZdKJVKK .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-quWZdKJVKK .footer-lower .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
+.cid-quWZdKJVKK H5 {
+  color: #efefef;
+}
+.cid-quWZdKJVKK P {
+  color: #ffffff;
 }
 .cid-qtXarFxEg7 .navbar {
   background: #000000;
@@ -8884,7 +8957,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #333333;
 }
 .cid-qtXarFxEg7 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -11931,7 +12004,7 @@ body {
   text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.7);
 }
 .cid-quH7AoRNto {
-  background-image: url("../../../assets/images/blackveilbrides-justinetrickett-8924s-1-970x645.jpg");
+  background-image: url("../../../assets/images/liveentertainment1-1209x434.jpg");
 }
 .cid-quH7AoRNto .text-content {
   padding-top: 105px;
@@ -11979,7 +12052,7 @@ body {
   }
 }
 .cid-quH7TbbEBU {
-  background-image: url("../../../assets/images/blackveilbrides-justinetrickett-9011s-1-970x645.jpg");
+  background-image: url("../../../assets/images/liveentertainment3-940x415.jpg");
 }
 .cid-quH7TbbEBU .text-content {
   padding-top: 105px;
@@ -15049,8 +15122,8 @@ body {
   word-break: break-word;
 }
 .cid-quLn3vkoqw {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #f3f4f6;
 }
 .cid-quLn3vkoqw .testimonial-text {
@@ -15082,8 +15155,8 @@ body {
   word-break: break-word;
 }
 .cid-quLnC5zCRR {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #f3f4f6;
 }
 .cid-quLnC5zCRR .testimonial-text {
