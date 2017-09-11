@@ -4212,7 +4212,7 @@ body {
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.9);
 }
 .cid-quk7uyilgn {
-  background-image: url("../../../assets/images/eventsmanagement-1-600x450.jpg");
+  background-image: url("../../../assets/images/events-management-900x400.jpg");
 }
 .cid-quk7uyilgn p {
   color: #ffffff;
@@ -4229,7 +4229,7 @@ body {
   text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.7);
 }
 .cid-quLhG0LxE5 {
-  background-image: url("../../../assets/images/keynotespeaker1-2000x909.jpg");
+  background-image: url("../../../assets/images/conference-and-events-management-940x627.png");
 }
 .cid-quLhG0LxE5 .text-content {
   padding-top: 105px;
@@ -4280,7 +4280,7 @@ body {
   color: #000000;
 }
 .cid-quLifZbxtv {
-  background-image: url("../../../assets/images/images-1-1200x799.jpg");
+  background-image: url("../../../assets/images/event3-1920x737.jpg");
 }
 .cid-quLifZbxtv .text-content {
   padding-top: 105px;
@@ -4802,8 +4802,8 @@ body {
   background-image: url("../../../assets/images/lighting-resize1.pg-1-600x450.jpg");
 }
 .cid-quqnXtrepL .text-content {
-  padding-top: 30px;
-  padding-bottom: 0px;
+  padding-top: 60px;
+  padding-bottom: 30px;
 }
 .cid-quqnXtrepL .mbr-overlay {
   background: linear-gradient(90deg, #d6173f, #4284df);
@@ -7570,7 +7570,7 @@ body {
   text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.7);
 }
 .cid-quL3saDk4P {
-  padding-top: 60px;
+  padding-top: 90px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
@@ -7604,6 +7604,7 @@ body {
   width: 40px;
   height: 40px;
   border-radius: 50%;
+  border-radius: 0;
 }
 .cid-quL3saDk4P .mbr-text B {
   color: #000000;
