@@ -1837,6 +1837,21 @@ body {
     padding-top: 3rem;
   }
 }
+.cid-qCBLR8mJ1p {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background: linear-gradient(45deg, #000000, #000000);
+}
+@media (min-width: 992px) {
+  .cid-qCBLR8mJ1p .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qCBLR8mJ1p .mbr-figure {
+    padding-top: 3rem;
+  }
+}
 .cid-qu0YlP4PMg {
   padding-top: 45px;
   padding-bottom: 45px;
